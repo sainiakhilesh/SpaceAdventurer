@@ -1,7 +1,7 @@
 # SpaceAdventurer
 My first Game.
 
-Object : Start from the blue Launching Pad and Find your way to green LAnding pad.
+Objectective : Start from the blue Launching Pad and Find your way to green LAnding pad.
 
 Controls: 
 Press Space: To Start thrusting.
